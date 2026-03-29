@@ -2,6 +2,7 @@
 estudos de reconhecimento facial e testes
 
 à ver:
+- https://github.com/venkatesh13032003/Face_recognition_live/blob/main/Program.cs#L151
 - https://mojalab.com/person-detection-and-face-recognition-with-liveness-detection-a-python-project-using-powerful-ai-models/
 - https://github.com/ThiagodePaulaSouza/Person-Detection--Face-Recognition
 - https://colab.research.google.com/github/Yogender-Singh/Notebooks/blob/main/yolo-series/tutorial.ipynb#scrollTo=bpF9-vS_DAaf
@@ -11,4 +12,7 @@ estudos de reconhecimento facial e testes
 - lbph
 
 visto:
+- https://github.com/georg-jung/FaceAiSharp
+- https://github.com/takuya-takeuchi/FaceRecognitionDotNet
 - https://medium.com/@erdibillkaan/object-detection-and-face-recognition-with-yolov8n-356b22bacc48
+- https://learn.microsoft.com/en-us/sql/sql-server/ai/vectors?view=sql-server-ver17
